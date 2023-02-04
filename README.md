@@ -50,7 +50,18 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
+<details>
+<summary>📈 Stats</summary>
+<br>
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzung&theme=nord_bright)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzung&theme=nord_bright) 
 
- <div align="center">Thanks for stopping by! 🥹</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzung&theme=nord_bright)
+  
+<br>
+</details>
+  
+<div align="center">Thanks for stopping by! 🥹</div>
