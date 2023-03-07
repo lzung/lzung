@@ -29,6 +29,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
   
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
@@ -41,8 +43,6 @@
 
 ## What I'm Learning 💡
 
-![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -66,4 +66,4 @@
 <br>
 </details>
   
-<div align="center">Thanks for stopping by! 🥹</div>
+<div align="center">Thanks for stopping by!</div>
