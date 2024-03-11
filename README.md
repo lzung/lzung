@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏼</h1>
-<h3 align="center">My name is Lauren and I'm a junior data scientist based in Vancouver, Canada 👩🏻‍💻 🇨🇦<h3>
-<h4>I have recently completed a master's in Data Science at the University of British Columbia. I am actively looking for data science and machine learning opportunities!<h4>
+<h3 align="center">My name is Lauren and I'm a data engineer based in Vancouver, Canada 👩🏻‍💻 🇨🇦<h3>
+<h4>I recently completed a master's in Data Science at the University of British Columbia. You will find my various projects hosted here!<h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/lauren-zung/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
